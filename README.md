@@ -98,7 +98,7 @@ All actions are logged with timestamps:
 ```
 
 ---
-#FRENCH
+🇫🇷 README en français
 
 # 📦 Enregistreur de flux HLS
 
