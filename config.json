@@ -1,0 +1,11 @@
+{
+  "PORT": 3000,
+  "RECORDING_FOLDER": "recordings",
+  "TIMEZONE": "Europe/Paris",
+  "STREAMS": [
+    {
+      "name": "Your Stream Name M3U",
+      "url": "Your M3U Stream URL"
+    }
+  ]
+}
