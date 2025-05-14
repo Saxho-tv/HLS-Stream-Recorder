@@ -1,10 +1,9 @@
----
 
 # HLS Stream Recorder 🎙️
 
 > ⚙️ A lightweight tool to automatically record HLS audio streams (`.m3u8`) hour by hour, with smart filename management, hourly rotation and automatic cleanup of old recordings.
 
----
+
 
 ## 🧾 Features
 
