@@ -1,0 +1,21 @@
+{
+  "name": "hls-stream-recorder",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js service for recording HLS audio streams (.m3u8) with hourly rotation and automatic cleanup.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment-timezone": "^0.5.46"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "author": "Saxho",
+  "license": "MIT"
+}
